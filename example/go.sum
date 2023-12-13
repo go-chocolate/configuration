@@ -1,0 +1,14 @@
+github.com/creasty/defaults v1.7.0 h1:eNdqZvc5B509z18lD8yc212CAqJNvfT1Jq6L8WowdBA=
+github.com/creasty/defaults v1.7.0/go.mod h1:iGzKe6pbEHnpMPtfDXZEr0NVxWnPTjb1bbDy08fPzYM=
+github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
+github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
+github.com/go-chocolate/configuration/configuration v0.0.0-20231211020635-c5bce1529573 h1:I9MbUFuUaHyNabpaJtnWL1D/V+h1TX3xNVQPPol80HQ=
+github.com/go-chocolate/configuration/configuration v0.0.0-20231211020635-c5bce1529573/go.mod h1:hViiAk/hc+8IVO1k+24hJjSho9dIAVMtF3Xnvb6kGqY=
+gitlab.isigning.cn/aoscript-component/toolkit v1.1.5 h1:6RnsZ1LC1lPlFcFUaAG4WCmM+FAGHh01UvYKFbufx5E=
+gitlab.isigning.cn/aoscript-component/toolkit v1.1.5/go.mod h1:VIg7kHBCDk9B49sH2uMY//uI1CVOXWVq7FdtFmAjz90=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

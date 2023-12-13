@@ -1,0 +1,8 @@
+Global:
+# replace content with testdata/global.yaml
+# ':2' means add 2 space at start of every line
+<<testdata/global.yaml:2>>
+
+Name: Alex
+
+Host: ${HOST}
