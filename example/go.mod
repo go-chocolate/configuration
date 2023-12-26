@@ -1,6 +1,6 @@
 module github.com/go-chocolate/configuration/example
 
-go 1.19
+go 1.20
 
 require github.com/go-chocolate/configuration/configuration v0.0.0-20231211020635-c5bce1529573
 

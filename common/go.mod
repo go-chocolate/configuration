@@ -1,4 +1,4 @@
 module github.com/go-chocolate/configuration/common
 
-go 1.19
+go 1.20
 
